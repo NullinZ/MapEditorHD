@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/nuomi/!svn/ver/37231/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow
+END
+UIView+TKCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/UIView+TKCategory.h
+END
+TKCoverflowView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nuomi/!svn/ver/37231/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKCoverflowView.m
+END
+UIImage+TKCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/UIImage+TKCategory.h
+END
+TKGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKGlobal.h
+END
+TKAlertCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKAlertCenter.h
+END
+TKLoadingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKLoadingView.h
+END
+UIView+TKCategory.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/UIView+TKCategory.m
+END
+UIImage+TKCategory.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/UIImage+TKCategory.m
+END
+TKCoverflowCoverView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKCoverflowCoverView.h
+END
+TKAlertCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nuomi/!svn/ver/33160/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKAlertCenter.m
+END
+TKLoadingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/nuomi/!svn/ver/37231/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKLoadingView.m
+END
+TKGlobal.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKGlobal.m
+END
+TKCoverflowView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKCoverflowView.h
+END
+TKCoverflowCoverView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/nuomi/!svn/ver/26389/niux_mobile/trunk/iphone/Nuomi/ThirdParty/Coverflow/TKCoverflowCoverView.m
+END
